@@ -1,0 +1,28 @@
+.video-item {
+    /* display: flex !important; */
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.my-images {
+    height: 120px !important;
+    width: 200px !important; 
+}
+
+#comment1{
+    min-width: 98%;
+}
+
+#comment2{
+    min-width: 100%;
+}
+
+.card-text {
+    /* white-space: nowrap;  */
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+
+#searchbar {
+    margin-left: 30%;
+}
